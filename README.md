@@ -1,12 +1,12 @@
-# Bracia is a simple personal blog theme for Jekyll.
+# Sunwook Kim is a simple personal blog theme for Jekyll.
 
-Bracia is a simple personal blog theme for Jekyll. This theme is fully responsive, super fast and has a modern design, and also comes with light and dark mode. With the Bracia theme, your blog will look unique and stylish.
+Sunwook Kim is a simple personal blog theme for Jekyll. This theme is fully responsive, super fast and has a modern design, and also comes with light and dark mode. With the Sunwook Kim theme, your blog will look unique and stylish.
 
 * * *
 
 ### Demo
 
-Check the theme in action [Live Demo](https://bracia.netlify.app/) |
+Check the theme in action [Live Demo](https://Sunwook Kim.netlify.app/) |
 [Artem Sheludko](https://jekyllthemes.io/developers/artem-sheludko)
 
 ### Theme features
@@ -55,7 +55,7 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 
 ### Documentation
 
-Before using the Bracia theme, please read the attached documentation.
+Before using the Sunwook Kim theme, please read the attached documentation.
 
 * * *
 
